@@ -1,1 +1,2 @@
 TestFunc() - Legge dati di prova
+TestIcolo() - Nuovi parametri
