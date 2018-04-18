@@ -1,3 +1,4 @@
 TestFunc() - Legge dati di prova
 TestIcolo() - Nuovi parametri
+TestDBOpen() - Controlla il DB
 TestUnivoco() - Controlla se è l'unico
