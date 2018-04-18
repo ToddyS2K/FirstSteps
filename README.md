@@ -5,5 +5,4 @@ This is my first repo in Git
 
 Aggiunta qui, dopo, un'altro
 
-## Commento
-## Fine del files
+## Commento finale
